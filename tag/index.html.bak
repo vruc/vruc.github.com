@@ -5,13 +5,13 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Tag - 流水人家</title>
+  <title>Blog Archive - 流水人家</title>
   <meta name="author" content="VRUC">
 
   
-  <meta name="description" content="Tag 2012 HR050 Unit One
-Jun 24 2012 posted in HR050, SAP Hello Github Pages
-Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello Github &hellip;">
+  <meta name="description" content="Blog Archive 2012 HR050 Unit One
+Jun 24 2012 posted in SAP Hello Github Pages
+Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +20,7 @@ Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello Github &hellip
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://vruc.github.com/blog/tag/">
+  <link rel="canonical" href="http://vruc.github.com/tag/.bak">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -68,13 +68,7 @@ Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello Github &hellip
   </fieldset>
 </form>
   
-﻿<ul class="main-navigation">
-  <li><a href="/">主页</a></li>
-  <li><a href="/blog/archives">存档</a></li>
-  <li><a href="/blog/tag">标签</a></li>
-  <li><a href="/blog/about">关于我</a></li>
-</ul>
-
+Liquid error: invalid byte sequence in GBK
 </nav>
   <div id="main">
     <div id="content">
@@ -82,7 +76,7 @@ Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello Github &hellip
 <article role="article">
   
   <header>
-    <h1 class="entry-title">Tag</h1>
+    <h1 class="entry-title">Blog Archive</h1>
     
   </header>
   
@@ -95,11 +89,11 @@ Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello Github &hellip
 
 <article>
   
-<h1><a href="/blog/2012/06/24/hr050-unit-one/">HR050 Unit One</a></h1>
+<h1><a href="/2012/06/24/hr050-unit-one/">HR050 Unit One</a></h1>
 <time datetime="2012-06-24T15:04:00+08:00" pubdate><span class='month'>Jun</span> <span class='day'>24</span> <span class='year'>2012</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/hr050/'>HR050</a>, <a class='category' href='/blog/categories/sap/'>SAP</a></span>
+  <span class="categories">posted in <a class='category' href='/categories/sap/'>SAP</a></span>
 </footer>
 
 
@@ -109,11 +103,11 @@ Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello Github &hellip
 
 <article>
   
-<h1><a href="/blog/2012/06/24/hello-github-pages/">Hello Github Pages</a></h1>
+<h1><a href="/2012/06/24/hello-github-pages/">Hello Github Pages</a></h1>
 <time datetime="2012-06-24T14:50:00+08:00" pubdate><span class='month'>Jun</span> <span class='day'>24</span> <span class='year'>2012</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/octopress/'>octopress</a></span>
+  <span class="categories">posted in <a class='category' href='/categories/octopress/'>octopress</a></span>
 </footer>
 
 
@@ -133,11 +127,11 @@ Jun 24 2012 posted in octopress Recent Posts HR050 Unit One Hello Github &hellip
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2012/06/24/hr050-unit-one/">HR050 Unit One</a>
+        <a href="/2012/06/24/hr050-unit-one/">HR050 Unit One</a>
       </li>
     
       <li class="post">
-        <a href="/blog/2012/06/24/hello-github-pages/">Hello Github Pages</a>
+        <a href="/2012/06/24/hello-github-pages/">Hello Github Pages</a>
       </li>
     
   </ul>

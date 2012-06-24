@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[分类: octopress | 流水人家]]></title>
+  <link href="http://vruc.github.com/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://vruc.github.com/"/>
+  <updated>2012-06-24T17:04:26+08:00</updated>
+  <id>http://vruc.github.com/</id>
+  <author>
+    <name><![CDATA[VRUC]]></name>
+    <email><![CDATA[20050crd@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Github Pages]]></title>
+    <link href="http://vruc.github.com/2012/06/24/hello-github-pages/"/>
+    <updated>2012-06-24T14:50:00+08:00</updated>
+    <id>http://vruc.github.com/2012/06/24/hello-github-pages</id>
+    <content type="html"><![CDATA[<p><code>
+$ sudo make me a github page
+</code></p>
+
+<blockquote><p>你好 Github Pages</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>

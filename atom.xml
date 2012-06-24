@@ -4,20 +4,20 @@
   <title><![CDATA[流水人家]]></title>
   <link href="http://vruc.github.com/atom.xml" rel="self"/>
   <link href="http://vruc.github.com/"/>
-  <updated>2012-06-24T16:29:59+08:00</updated>
+  <updated>2012-06-24T17:04:26+08:00</updated>
   <id>http://vruc.github.com/</id>
   <author>
     <name><![CDATA[VRUC]]></name>
-    
+    <email><![CDATA[20050crd@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
     <title type="html"><![CDATA[HR050 Unit One]]></title>
-    <link href="http://vruc.github.com/blog/2012/06/24/hr050-unit-one/"/>
+    <link href="http://vruc.github.com/2012/06/24/hr050-unit-one/"/>
     <updated>2012-06-24T15:04:00+08:00</updated>
-    <id>http://vruc.github.com/blog/2012/06/24/hr050-unit-one</id>
+    <id>http://vruc.github.com/2012/06/24/hr050-unit-one</id>
     <content type="html"><![CDATA[<h2>Object</h2>
 
 <ul>
@@ -29,16 +29,27 @@
 
 <h2>Navigation Tree</h2>
 
-<ul>
-<li>/n   -结束当前事务 ends the current transaction</li>
-<li>/o        -打开一新会话 opens a new session</li>
-<li>/i        -结束当前会话 ends the current session</li>
-<li>/oXXX -打开指定事务代码会话 where XXXX is a transaction code takes you to the specified
-transaction code such as /opa30 will open a new session at the transaction
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>/n     -结束当前事务 ends the current transaction
+</span><span class='line'>
+</span><span class='line'>/o     -打开一新会话 opens a new session
+</span><span class='line'>
+</span><span class='line'>/i     -结束当前会话 ends the current session
+</span><span class='line'>
+</span><span class='line'>/oXXX  -打开指定事务代码会话 where XXXX is a transaction code. 
+</span><span class='line'>       It will takes you to the specified transaction code.
+</span><span class='line'>       Such as /opa30 will open a new session at the transaction</span></code></pre></td></tr></table></div></figure>
 
-<blockquote><p>pa30 - Maintain Master Data</p></blockquote></li>
-</ul>
 
+<blockquote><p>pa30 - Maintain Master Data</p></blockquote>
 
 <p>If you enter “search_sap_menu” in the command field of the SAP Easy Access screen, you can search for and display the menu paths for SAP transactions. You can also search for text strings.</p>
 
@@ -71,16 +82,14 @@ F1 help also provides technical information on the relevant field. This includes
   
   <entry>
     <title type="html"><![CDATA[Hello Github Pages]]></title>
-    <link href="http://vruc.github.com/blog/2012/06/24/hello-github-pages/"/>
+    <link href="http://vruc.github.com/2012/06/24/hello-github-pages/"/>
     <updated>2012-06-24T14:50:00+08:00</updated>
-    <id>http://vruc.github.com/blog/2012/06/24/hello-github-pages</id>
-    <content type="html"><![CDATA[<blockquote><p>Hello Github Pages</p>
+    <id>http://vruc.github.com/2012/06/24/hello-github-pages</id>
+    <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo make me a github page</span></code></pre></td></tr></table></div></figure>
 
-<p>你好 Github Pages</p></blockquote>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>$ sudo make me a sandwich</span></code></pre></td></tr></table></div></figure>
-
+<blockquote><p>你好 Github Pages</p></blockquote>
 ]]></content>
   </entry>
   

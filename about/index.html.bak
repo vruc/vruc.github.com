@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://vruc.github.com/blog/about/.bak">
+  <link rel="canonical" href="http://vruc.github.com/about/.bak">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -66,13 +66,7 @@
   </fieldset>
 </form>
   
-﻿<ul class="main-navigation">
-  <li><a href="/">主页</a></li>
-  <li><a href="/blog/archives">存档</a></li>
-  <li><a href="/blog/tag">标签</a></li>
-  <li><a href="/blog/about">关于我</a></li>
-</ul>
-
+Liquid error: invalid byte sequence in GBK
 </nav>
   <div id="main">
     <div id="content">
@@ -98,11 +92,11 @@
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2012/06/24/hr050-unit-one/">HR050 Unit One</a>
+        <a href="/2012/06/24/hr050-unit-one/">HR050 Unit One</a>
       </li>
     
       <li class="post">
-        <a href="/blog/2012/06/24/hello-github-pages/">Hello Github Pages</a>
+        <a href="/2012/06/24/hello-github-pages/">Hello Github Pages</a>
       </li>
     
   </ul>
