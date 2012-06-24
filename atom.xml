@@ -4,7 +4,7 @@
   <title><![CDATA[流水人家]]></title>
   <link href="http://vruc.github.com/atom.xml" rel="self"/>
   <link href="http://vruc.github.com/"/>
-  <updated>2012-06-24T14:42:33+08:00</updated>
+  <updated>2012-06-24T15:07:12+08:00</updated>
   <id>http://vruc.github.com/</id>
   <author>
     <name><![CDATA[VRUC]]></name>
@@ -12,5 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[HR050 Unit One]]></title>
+    <link href="http://vruc.github.com/blog/2012/06/24/hr050-unit-one/"/>
+    <updated>2012-06-24T15:04:00+08:00</updated>
+    <id>http://vruc.github.com/blog/2012/06/24/hr050-unit-one</id>
+    <content type="html"><![CDATA[<h2>Object</h2>
+
+<ul>
+<li>Know log on to a SAP system</li>
+<li>Navigate a basic path and personalize your views in a SAP system</li>
+<li>Search for information and get help using the different methods in the SAP system</li>
+</ul>
+
+
+<h2>Navigation Tree</h2>
+
+<ul>
+<li>/n   -结束当前事务 ends the current transaction</li>
+<li>/o        -打开一新会话 opens a new session</li>
+<li>/i        -结束当前会话 ends the current session</li>
+<li>/oXXX -打开指定事务代码会话 where XXXX is a transaction code takes you to the specified
+transaction code such as /opa30 will open a new session at the transaction
+
+<blockquote><p>pa30 - Maintain Master Data</p></blockquote></li>
+</ul>
+
+
+<p>If you enter “search_sap_menu” in the command field of the SAP Easy Access screen, you can search for and display the menu paths for SAP transactions. You can also search for text strings.</p>
+
+<h2>Status Bar</h2>
+
+<p>When a user is assigned a role and the role is generated through the profile
+generator, the user is assigned not only the menu, but also the authorizations
+required to access the information. This ensures that the business data is always secure. Authorization profiles are generated according to the activities contained in the role, thus restricting the authorizations of each user in the SAP system to only those activities.</p>
+
+<h2>Multiple Sessions</h2>
+
+<p>You can create a session at any time. You do not lose any data in sessions that are already open.
+When you end a session, the system does not prompt you to save your data.</p>
+
+<h2>Getting Help</h2>
+
+<p>Use F1 for help on fields, menus, functions, and messages.
+F1 help also provides technical information on the relevant field. This includes, for example, the parameter ID, which you can use to assign values to the field for your user.</p>
+
+<p>Use F4 for information on what values you can enter. You can also access F4 help for a selected field using the button immediately to the right of that field.</p>
+
+<h1>Lesson Summary</h1>
+
+<p>You should now be able to:
+• Log on to a SAP system
+• Navigate a basic path and personalize your views in a SAP system
+• Search for information and get help using the different help methods in the SAP system</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Github Pages]]></title>
+    <link href="http://vruc.github.com/blog/2012/06/24/hello-github-pages/"/>
+    <updated>2012-06-24T14:50:00+08:00</updated>
+    <id>http://vruc.github.com/blog/2012/06/24/hello-github-pages</id>
+    <content type="html"><![CDATA[<blockquote><p>Hello Github Pages</p>
+
+<p>你好 Github Pages</p></blockquote>
+]]></content>
+  </entry>
   
 </feed>
