@@ -2,18 +2,34 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://vruc.github.com/blog/2012/06/24/hello-github-pages/</loc>
-        <lastmod>2012-06-24T14:54:59+08:00</lastmod>
+        <lastmod>2012-06-24T16:13:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://vruc.github.com/blog/2012/06/24/hr050-unit-one/</loc>
-        <lastmod>2012-06-24T15:06:21+08:00</lastmod>
+        <lastmod>2012-06-24T16:06:02+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vruc.github.com/blog/about/</loc>
+        <lastmod>2012-06-24T16:13:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vruc.github.com/blog/about/index.html.bak</loc>
+        <lastmod>2012-06-24T16:01:33+08:00</lastmod>
     </url>
     <url>
         <loc>http://vruc.github.com/blog/archives/</loc>
-        <lastmod>2012-06-24T15:06:21+08:00</lastmod>
+        <lastmod>2012-06-24T16:13:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vruc.github.com/blog/tag/</loc>
+        <lastmod>2012-06-24T16:13:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://vruc.github.com/blog/tag/index.html.bak</loc>
+        <lastmod>2012-06-24T15:02:18+08:00</lastmod>
     </url>
     <url>
         <loc>http://vruc.github.com/</loc>
-        <lastmod>2012-06-24T15:06:21+08:00</lastmod>
+        <lastmod>2012-06-24T16:13:45+08:00</lastmod>
     </url>
 </urlset>

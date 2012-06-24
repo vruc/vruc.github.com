@@ -32,6 +32,18 @@ Search for information and get help using the &hellip;">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32893019-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
 
 </head>
 
@@ -57,8 +69,10 @@ Search for information and get help using the &hellip;">
 </form>
   
 ﻿<ul class="main-navigation">
-  <li><a href="/">博客主页</a></li>
-  <li><a href="/blog/archives">文章列表</a></li>
+  <li><a href="/">主页</a></li>
+  <li><a href="/blog/archives">存档</a></li>
+  <li><a href="/blog/tag">标签</a></li>
+  <li><a href="/blog/about">关于我</a></li>
 </ul>
 
 </nav>
@@ -165,13 +179,19 @@ F1 help also provides technical information on the relevant field. This includes
 <time datetime="2012-06-24T15:04:00+08:00" pubdate data-updated="true">Jun 24<span>th</span>, 2012</time>
       
 
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/hr050/'>HR050</a>, <a class='category' href='/blog/categories/sap/'>SAP</a>
+  
+</span>
+
 
     </p>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://vruc.github.com/blog/2012/06/24/hr050-unit-one/" data-via="" data-counturl="http://vruc.github.com/blog/2012/06/24/hr050-unit-one/" >Tweet</a>
   
+  <div class="g-plusone" data-size="small"></div>
   
   
 </div>
@@ -185,6 +205,12 @@ F1 help also provides technical information on the relevant field. This includes
     </p>
   </footer>
 </article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -208,6 +234,15 @@ F1 help also provides technical information on the relevant field. This includes
 
 
 
+<section class="googleplus">
+  <h1>
+    <a href="https://plus.google.com/20050crd@gmail.com?rel=author">
+      <img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32">
+      Google+
+    </a>
+  </h1>
+</section>
+
 
 
   
@@ -224,21 +259,35 @@ F1 help also provides technical information on the relevant field. This includes
 </footer>
   
 
-
+<script type="text/javascript">
+      var disqus_shortname = 'vruc';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://vruc.github.com/blog/2012/06/24/hr050-unit-one/';
+        var disqus_url = 'http://vruc.github.com/blog/2012/06/24/hr050-unit-one/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
 
 
 
 
 
   <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
     })();
   </script>
+
+
 
 
 
