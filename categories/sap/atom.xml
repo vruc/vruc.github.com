@@ -4,7 +4,7 @@
   <title><![CDATA[分类: SAP | 流水人家]]></title>
   <link href="http://vruc.github.com/categories/sap/atom.xml" rel="self"/>
   <link href="http://vruc.github.com/"/>
-  <updated>2012-06-24T18:57:39+08:00</updated>
+  <updated>2012-06-24T19:00:10+08:00</updated>
   <id>http://vruc.github.com/</id>
   <author>
     <name><![CDATA[VRUC]]></name>
@@ -68,10 +68,14 @@ F1 help also provides technical information on the relevant field. This includes
 
 <h1>Lesson Summary</h1>
 
-<p>You should now be able to:
-• Log on to a SAP system
-• Navigate a basic path and personalize your views in a SAP system
-• Search for information and get help using the different help methods in the SAP system</p>
+<p>You should now be able to:</p>
+
+<ul>
+<li>Log on to a SAP system</li>
+<li>Navigate a basic path and personalize your views in a SAP system</li>
+<li>Search for information and get help using the different help methods in the SAP system</li>
+</ul>
+
 ]]></content>
   </entry>
   
